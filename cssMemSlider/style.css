@@ -22,7 +22,7 @@ body {
 .nawigation{
     position: absolute;
     bottom: 16px;
-    left: 50%;
+    left: 550px;
     transform: translateX(-50%);
     display: flex;
 }
